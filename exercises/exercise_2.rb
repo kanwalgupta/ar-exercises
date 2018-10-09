@@ -9,5 +9,5 @@ puts "----------"
 
  @store1= Store.find_by(id:1)
  @store2 = Store.second
- @store1.name = "Levis"
+ @store1.name = "Victoria"
  @store1.save
